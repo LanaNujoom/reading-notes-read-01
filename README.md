@@ -9,3 +9,14 @@ Markdown is a way to put text on the web.
 - Lists
 - Images
 - links ..
+
+Bold : We use **   **
+Italic : *    *
+Bold & Italic ***      ***
+Header : the biggest will be #
+         smaller will be ## and so on ..
+Quotes : We use >
+Lists: - 
+
+# Github Pages:
+It allows  to turn the repository into a website and choose a theme for them
