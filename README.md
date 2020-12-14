@@ -18,5 +18,5 @@ Markdown is a way to put text on the web.
  #### Quotes : We use >
  #### Lists: - 
 
-# Github Pages:
+## Github Pages:
 The Github Page allows  to turn the repository into a website and choose a theme for them
