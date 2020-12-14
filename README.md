@@ -25,4 +25,4 @@ The Github Page allows  to turn the repository into a website and choose a theme
 
 
 For me :
-> I advice people to learn it beause it is fast and simple and it is a good start
+> I advice people to learn Markdown it beause it is fast and simple and it is a good start
