@@ -14,8 +14,8 @@ Markdown is a way to put text on the web.
 
  **Bold** : We use **   **
  **Italic** : *    *
- **Bold & Italic** : ***      ***
- #### Header : the biggest will be #
+ **Bold & Italic **  : ***      ***
+**Header** : the biggest will be #
          smaller will be ## and so on ..
  **Quotes** : We use >
 **Lists** : - 
