@@ -19,4 +19,4 @@ Quotes : We use >
 Lists: - 
 
 # Github Pages:
-It allows  to turn the repository into a website and choose a theme for them
+The Github Page allows  to turn the repository into a website and choose a theme for them
